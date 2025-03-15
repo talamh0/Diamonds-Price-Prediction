@@ -4,7 +4,7 @@ A **Feedforward Neural Network (FNN)** trained on the **Diamonds dataset** to pr
 
 ---
 
-## 🚀 Features  
+##  Features  
 - 🔹 **Data Preprocessing**  
   - One-hot encoding for categorical features  
   - Standardization using `StandardScaler`  
