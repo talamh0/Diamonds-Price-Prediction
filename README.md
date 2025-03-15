@@ -1,4 +1,4 @@
-# 💎 Diamonds Price Prediction using Neural Networks  
+#  Diamonds Price Prediction using Neural Networks  
 
 A **Feedforward Neural Network (FNN)** trained on the **Diamonds dataset** to predict **diamond prices** based on their attributes. The model is evaluated using different learning rates (`0.001` vs `0.3`) to observe their effects.
 
