@@ -94,8 +94,7 @@ python NNproject.py
 ✔ **Best Learning Rate:** **0.001** → More stable training, lower loss, and better predictions.
 
 ---
-
-## in the end  
+ 
 - **Lower learning rate (0.001) leads to better performance and stable convergence.**  
 - **Higher learning rate (0.3) results in unstable training and poor generalization.**  
 - **Neural Networks are effective for regression tasks, but hyperparameter tuning is crucial!**  
